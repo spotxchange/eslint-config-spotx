@@ -1,6 +1,6 @@
 {
   "name": "eslint-config-spotx",
-  "version": "1.0.1",
+  "version": "1.0.2",
   "description": "ESLint configuration for SpotX JS Applications",
   "main": "index.js",
   "scripts": {
